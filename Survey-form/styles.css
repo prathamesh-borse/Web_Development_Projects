@@ -1,0 +1,133 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #191919;
+}
+
+h2 {
+    margin: 15px 0 0 0;
+    padding: 6px 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+
+.paragraph_text {
+    color: white;
+    margin: 8px auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+.container {
+    background-color: rgb(122, 80, 161);
+    margin: 2em 10em;
+    padding: 1.2em 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.input {
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.option {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.radio {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input[type=radio] {
+    padding: 12px 20px;
+    margin: 8px 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.checkbox {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+input[type=checkbox] {
+    padding: 12px 20px;
+    margin: 8px 8px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.comments {
+    color: white;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input-textarea {
+    min-height: 120px;
+    width: 98%;
+    padding: 0.625rem;
+    resize: vertical;
+    border-radius: 5px;
+}
+
+.btn-submit {
+    width: 101%;
+    background: green;
+    color: inherit;
+    display: block;
+    padding: 0.75em;
+    cursor: pointer;
+}

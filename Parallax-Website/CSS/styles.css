@@ -1,0 +1,99 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.Text {
+    text-align: center;
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("/img/pimg2.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.span_text {
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    padding: 10em 0;
+}
+
+.section_one {
+    font-size: 25px;
+    height: 250px;
+    opacity: 0.5;
+    text-align: center;
+}
+
+.section_one_text{
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+    margin: 35px 30px;
+    padding: 7px 10px;
+}
+
+.section_pg_text {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 45px 34px;
+    padding: 5px 35px;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
+
+.parallax2 {
+    background-image: url("/img/pimg3.jpg");
+  
+    /* Set a specific height */
+    min-height: 300px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax_text {
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding: 5em 0;
+}
+
+.section_two{
+    font-size: 25px;
+    height: 250px;
+    opacity: 0.5;
+    text-align: center;
+}
+
+.section_two_text{
+    font-size: 25px;
+    font-weight: bold;
+    color: red;
+    margin: 35px 30px;
+    padding: 7px 10px;
+}
+
+.section_pg_text {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 45px 34px;
+    padding: 5px 35px;
+    letter-spacing: 2px;
+    line-height: 30px;
+}
